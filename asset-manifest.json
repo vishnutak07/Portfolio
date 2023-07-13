@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffc92965.css",
+    "main.js": "/static/js/main.50d68a03.js",
+    "static/media/futClub.png": "/static/media/futClub.c4af18ad526fb1e583c6.png",
+    "static/media/vishnu.png": "/static/media/vishnu.ce3b4d56aed94fad6a5a.png",
+    "static/media/nesApp.jpeg": "/static/media/nesApp.d0e025ccd970f9ec4790.jpeg",
+    "static/media/PHPandMysql.png": "/static/media/PHPandMysql.8a02bfc01559cc99b415.png",
+    "static/media/vishnuTakResume.pdf": "/static/media/vishnuTakResume.b92b728ad2a2a5fecde1.pdf",
+    "static/media/note.jpg": "/static/media/note.3452f8f4ab11f5341332.jpg",
+    "static/media/th.jpg": "/static/media/th.f8a027b898ca2416ba73.jpg",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/index.html",
+    "main.ffc92965.css.map": "/static/css/main.ffc92965.css.map",
+    "main.50d68a03.js.map": "/static/js/main.50d68a03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc92965.css",
+    "static/js/main.50d68a03.js"
+  ]
+}
